@@ -4,8 +4,9 @@
 Un simple lecteur vidéo réalisé en php.
 
 ## Installation
+
 ```
-Glissez le code php dans votre serveur web.
+Glissez le code php dans le répertoire du serveur web.
 ```
 
 ## Usage
