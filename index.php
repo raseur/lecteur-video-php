@@ -16,7 +16,7 @@ video::-webkit-media-controls-timeline {
 }
 
 video::-webkit-media-controls-timeline-container {
-  color: white; /* couleur du texte indiquant le temps écoulé/restant */
+  color: white; /* couleur du texte indiquant le temps écoulé/restant sur la page.*/
 }
 video {
   border: 5px solid black; /* ajoute une bordure rouge de 5 pixels de large */
